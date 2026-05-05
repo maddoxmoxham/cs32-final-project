@@ -22,5 +22,12 @@ mental_training = {
     "composure": ["pressure drills", "tie-break games"],
     "decision_making": ["scenario analysis", "deep tactical lesson"],
     "resilience": ["beep test", "point-advantage games"]
+
+}
+nutrition_plan = {
+    "Conditioning": "High carbs + hydration",
+    "Technical": "Balanced meals + protein",
+    "Match": "Carb loading + electrolytes",
+    "Recovery": "Light meals + protein recovery"
 }
 
